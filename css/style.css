@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(69, 90, 193);
+}
+
+html{
+    color: white;
+    text-align:center;
+}
+
+h1 {
+	font-size: 4em;
+    text-align: center;
+    color: rgb(241, 223, 199);
+}
+
+h2 {
+	font-size: 2em;
+    color: rgb(193, 237, 172);
+   
+  border: 1px solid rgb(255, 255, 255)
+  
+}
+
+a{
+    font-size: 1.5em;
+    text-align: left;
+    color: rgb(233, 239, 52);
+    text-decoration: none;
+}

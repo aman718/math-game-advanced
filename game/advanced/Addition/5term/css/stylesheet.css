@@ -44,7 +44,7 @@ p {
 }
 
 p span {
-	font-size: 96px;
+	font-size: 45px;
 }
 
 .container {
@@ -67,8 +67,8 @@ p span {
 }
 
 #start {
-	background-color: #00F8A0;
-	border-color: #00F8A0;
+	background-color: #6a7af7;
+	border-color: #6a7af7;
 }
 
 #stop {
