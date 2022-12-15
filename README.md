@@ -14,4 +14,4 @@ Remind Me :
 
 - Make a single mutiplication interface where you can choose the number (x) for which the mulitplication table(2-9) will be asked. Use the folder single-multiplication in directory advanced/mulitiplication
 
-- Improve the UI of the main index.html
+- Improve the UI of the main index.html. Add some CSS
